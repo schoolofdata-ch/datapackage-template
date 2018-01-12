@@ -1,0 +1,32 @@
+{
+  "name": "datapackage-boilerplate",
+  "title": "A Boilerplate Data Package",
+  "format": "csv",
+  "datapackage_version": "1.0.0",
+  "last_modified": "2018-01-01",
+  "licenses": [{
+    "name": "ODC-PDDL-1.0",
+    "path": "http://opendatacommons.org/licenses/pddl/",
+    "title": "Open Data Commons Public Domain Dedication and License v1.0"
+  }],
+  "sources": [
+    {
+      "name": "Sample Data Source",
+      "web": "http://www..."
+    }
+  ],
+  "resources": [
+    {
+      "path": "data/some-good-data.csv",
+      "schema": {
+        "fields": []
+      }
+    },{
+      "path": "data/the-raw-data.xls"
+    }
+  ],
+  "maintainers":[{
+    "name": "School of Data CH",
+    "web": "https://www.schoolofdata.ch/"
+  }]
+}
