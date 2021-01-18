@@ -1,4 +1,4 @@
-This is a boilerplate [Data Package](https://frictionlessdata.io/data-packages/).
+This is a boilerplate [Data Package](https://frictionlessdata.io/data-packages/) in the form of a [GitHub Template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template#about-repository-templates).
 
 > *Instructions: download, extract and modify this repository on your computer, then create a new repository and upload your work. Start by editing the `README.md` file, changing this text to a short summary of what this data set is about. If this sounds difficult, you should also consider using [data desktop](http://datahub.io/download) as a starting point.*
 
