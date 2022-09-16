@@ -4,7 +4,11 @@ This is a boilerplate [Data Package](https://frictionlessdata.io/data-packages/)
 
 # Data
 
-> *Instructions: Accessible data files (ideally in simple data formats such as [CSV](https://frictionlessdata.io/guides/csv/), [JSON](http://json-schema.org/specification.html) and [GeoJSON](http://geojson.org/)), as well as the raw data, are placed in the `data` folder. In this section you should mention the files and formats included. It is good to suggest purposes for this data, such as example applications or use cases. Include any relevant background, contact points, and links that may help people to use this data. You can find examples of this at [datahub.io](https://datahub.io) or [github.com/datasets](https://github.com/datasets), and further tips at [frictionlessdata.io](https://frictionlessdata.io/guides/data-package/) and [datahub.io](https://datahub.io/docs/data-packages/publish-faq)*.
+> *Instructions: Accessible data files (ideally in simple data formats such as [CSV](https://frictionlessdata.io/guides/csv/), [JSON](http://json-schema.org/specification.html) and [GeoJSON](http://geojson.org/)), as well as the raw data, are placed in the `data` folder. In this section you should mention the files and formats included. It is good to suggest purposes for this data, such as example applications or use cases.
+
+# Usage
+
+> Include any relevant background, contact points, and links that may help people to use this data. You can find examples of this at [datahub.io](https://datahub.io) or [github.com/datasets](https://github.com/datasets), and further tips at [frictionlessdata.io](https://frictionlessdata.io/guides/data-package/) and [datahub.io](https://datahub.io/docs/data-packages/publish-faq)*.
 
 # Preparation
 
@@ -13,7 +17,5 @@ This is a boilerplate [Data Package](https://frictionlessdata.io/data-packages/)
 # License
 
 > *Instructions: check the text below, and adapt it and the `LICENSE.md` file as needed. Explain any special conditions which allow the (re)publication of this data. Anything that may be relevant to future users of the data should be explained here.*
-
-The licensing terms of this dataset have not yet been established. If you intend to use these data in a public or commercial product, check with each of the data sources for any specific restrictions.
 
 This Data Package is made available by its maintainers under the [Public Domain Dedication and License v1.0](http://www.opendatacommons.org/licenses/pddl/1.0/), a copy of the full text of which is in [LICENSE.md](LICENSE.md).
